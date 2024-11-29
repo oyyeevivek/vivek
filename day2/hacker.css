@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    /* Header styles */
+}
+
+main {
+    /* Main content styles */
+}
+
+.login-form {
+    /* Login form styles */
+    text-align: center;
+    padding: 20px;
+}
+
+input {
+    /* Input field styles */
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+button {
+    /* Button styles */
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

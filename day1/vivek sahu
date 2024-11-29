@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello world</h1>
+    <h2>Hello world</h2>
+    <h3>Hello world</h3>
+    <img src="https://images.pexels.com/photos/29137971/pexels-photo-29137971/free-photo-of-scenic-autumn-pathway-lined-with-vibrant-leaves.jpeg"alt="" width="100px" height="100px" />
+    <img src="https://images.pexels.com/photos/29137971/pexels-photo-29137971/free-photo-of-scenic-autumn-pathway-lined-with-vibrant-leaves.jpeg"alt="" width="200px" height="200px" />
+    <img src="https://images.pexels.com/photos/29137971/pexels-photo-29137971/free-photo-of-scenic-autumn-pathway-lined-with-vibrant-leaves.jpeg"alt="" width="300px" height="300px" />
+    <img src="https://images.pexels.com/photos/29137971/pexels-photo-29137971/free-photo-of-scenic-autumn-pathway-lined-with-vibrant-leaves.jpeg"alt="" width="200px" height="200px" />
+    <img src="https://images.pexels.com/photos/29137971/pexels-photo-29137971/free-photo-of-scenic-autumn-pathway-lined-with-vibrant-leaves.jpeg"alt="" width="100px" height="100px" />
+<br> <hr>
+<img src="https://images.pexels.com/photos/29137971/pexels-photo-29137971/free-photo-of-scenic-autumn-pathway-lined-with-vibrant-leaves.jpeg"alt="" width="200px" height="200px" />
+<br> <hr>
+<img src=""https://images.pexels.com/photos/29137971/pexels-photo-29137971/free-photo-of-scenic-autumn-pathway-lined-with-vibrant-leaves.jpeg"alt="" width="100px" height="100px" />
+<hr> <br>
+
+    <a href="https://www.nasa.gov/" target="_blank">NASA Latest Release</a>
+
+<form action="">
+    <label for="name">name:</label>
+    <input type="text">
+    <br>
+    <label for="">email</label>
+    <input type="email">
+    <br>
+    <label for="password">password</label>
+    <input type="password" name="" id="">
+    <br>
+    <label for="dob">date of birthg</label>
+    <input type="date" name="" id="">
+    <br>
+    <label for="">enter your message</label>
+    <textarea name="" id=""></textarea>
+    </form>
+
+    <h1>h</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit, laudantium,
+        praesentium voluptatem numquam placeat aspernatur aliquam dolores deleniti doloremque quia odio 
+    </p>
+    </body>
+    </html>
+
+    <form action="">
+        <label for="">select your gender</label>
+        <input name="gender" type="radio">:male
+        <input name="gender" type="radio">:female
+        <input name="gender" type="radio">:choose to disclose
+        <br>
+        <label for="">select your country</label>
+        <select name="" id="">
+            <option value="india">india</option>
+            <option value="sri lanka">sri lanka</option>
+            <option value="nepal">nepal</option>
+            </select>
+
+            <!--chekbox-->
+            <label for="">select your hobbies</label>
+            <br>
+            <input type="checkbox">
+            <label for="">cricket</label>
+            <br>
+            <input type="checkbox">
+            <label for="">singing</label>
+            <br>
+            <input type="checkbox">
+            <label for="">running</label>
+            <br>
+            <input type="checkbox">
+            <label for="">reading</label>
+
+            </form>
+
+            <!--ordered and unordered list-->
+            <br>
+
+            <h3>list of fruits</h3>
+            <ul>
+                <li>mango</li>
+                <li>papaya</li>
+                <li>apple</li>
+                </ul>
+                
+                <h3>list of car brands</h3>
+                <ol type="a">
+                    <li>audi</li>
+                <li>bmw</li>
+                <li>aston martin</li>
+                </ol>
+
+                <!--table starts here-->
+
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <th>name</th>
+                            <th>class</th>
+                            <th>roll</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>john</td>
+                                    <td>xii</td>
+                                    <td>78743</td>
+                                    </tr>
+                                    <tr>
+                                        <td>saurav</td>
+                                    <td>xi</td>
+                                    <td>78783</td>
+                                    </tr>
+                                    </tbody>
+                                    </table>
+
+                                    <table border="1">
+                                        <thead>
+                                            <tr>
+                                                <th>sub code</th>
+                            <th>sub name</th>
+                            <th>theory</th>
+                            <th>pratical</th>
+                            <th>marks</th>
+                            <th>grade</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th>301</th>
+                                    <th>english</th>
+                                    <th>55</th>
+                                    <th>25</th>
+                                    <th>80</th>
+                                    <td>A+</td>
+                                    </tr>
+                                    <tr>
+                                        <th>302</th>
+                                    <th>hindi</th>
+                                    <th>63</th>
+                                    <th>26</th>
+                                    <th>89</th>
+                                    <td>A+</td>
+                                    </tr>
+                                    <tr>
+                                        <th>303</th>
+                                    <th>maths</th>
+                                    <th>51</th>
+                                    <th>28</th>
+                                    <th>78</th>
+                                    <td>A</td>
+                                    </tr>
+                                    <tr>
+                                        <th>304</th>
+                                    <th>science</th>
+                                    <th>65</th>
+                                    <th>27</th>
+                                    <th>82</th>
+                                    <td>A+</td>
+                                    </tr>
+                                    </tbody>
+                                    </table>    
+                                    <br>
+                                    
+                                    <iframe src="" frameborder="0"></iframe>
+                                    
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/45CfgzJ7Ols?si=kxSDU9F1wQvQRP8K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    <h1>this is block element</h1>
+                                    <h1>this is also block element</h1>
+                                    <span>this is inline,</span>
+                                    <span>this is also inline,</span>
+                                    <span>this is third span</span>
+                                    <p>this is first para</p>
+                                    <p>this is second para</p>
+                                    
+                                    <!DOCTYPE html>
+                                    <html lang="en">
+                                    <head>
+                                        <meta charset="UTF-8">, initial-scale=1.0">
+                                        <meta name="viewport" content="width=
+                                        <title>Document</title>
+                                        <!--inlines css-->
+                                        <style>
+                                            .dayname{
+                                        color: red;
+                                        background-color: yellow;
+                                        padding: 10px 30px;
+                                        border-radius: 10px;
+                                    }
+                                    #aboutme{
+                                        color: white;
+                                        background-color: black;
+                                        border-radius: 20px;
+                                        padding: 10px 100px;
+                                    }
+                                    .productOne{
+                                        height: 400px;
+                                        width: 400px;
+                                        background-color: rgba(241, 168, 10, 0.956);
+                                        border-radius: 50% 0;
+                                        border: 12px solid black;
+                                    }
+                                    .aboutMe{
+                                        font-family: 'times new roman', times, serlf;
+                                        color: gray;
+                                        font-size: 24px;
+                                        background-color: pink;
+                                        border: 2px solid green;
+                                        padding: 20px 100px;
+                                        border-radius: 18px;
+                                        text-transform:capitalize;
+                                        font-style: italic;
+                                        font-weight: bold;
+                                    }
+                                        </style>
+                                    </head>
+                                    <body>
+                                        <!--inline css-->
+                                        <h1 class="dayname">this is day 3</h1>
+                                        <h2 id="dayname">welcome to development classes</h2>
+                                        <h1 class="dayname">my name is <span id="abouttime">vivek sahu</span>
+                                            <h1 class="productone"></h1>
+                                            <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim alias quod sed eius beatae, vel expedita quas, maiores iusto porro perferendis placeat. Ea repellendus perspiciatis, itaque maxime fugit deserunt est.</h2>
+                                    </body>
+                                    </html>              
+                          
+
+
+
